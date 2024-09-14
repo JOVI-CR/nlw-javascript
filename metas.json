@@ -1,0 +1,14 @@
+[
+  {
+    "value": "Caminhar 20 minutos todos os dias",
+    "checked": true
+  },
+  {
+    "value": "Tomar 2L de água por dia ",
+    "checked": true
+  },
+  {
+    "value": "Estudar todos os dias",
+    "checked": false
+  }
+]
